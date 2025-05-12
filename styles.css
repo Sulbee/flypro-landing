@@ -780,10 +780,10 @@ footer {
     padding: 48px 0;
   }
   
-  .destination,
+  /*.destination,
   .destinations-grid {
     padding: 0 16px;
-  }
+  }*/
   
   .destinations-grid {
     grid-template-columns: 1fr;
